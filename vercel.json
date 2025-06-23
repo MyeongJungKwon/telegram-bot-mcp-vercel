@@ -18,9 +18,5 @@
       "src": "/mcp/(.*)",
       "dest": "/api/mcp.ts"
     }
-  ],
-  "env": {
-    "BOT_TOKEN": "@bot_token",
-    "WEBHOOK_URL": "@webhook_url"
-  }
+  ]
 }
